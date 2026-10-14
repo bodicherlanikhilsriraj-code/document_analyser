@@ -1,0 +1,1 @@
+"""StudyPilot AI application services."""
